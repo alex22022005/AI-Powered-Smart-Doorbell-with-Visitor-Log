@@ -1,0 +1,5 @@
+flask==2.0.1
+opencv-python==4.5.5.64
+ultralytics==8.0.0
+playsound==1.2.2
+requests==2.26.0
